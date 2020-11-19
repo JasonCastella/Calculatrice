@@ -1,1 +1,2 @@
 # Calculatrice
+Diagram de classe
